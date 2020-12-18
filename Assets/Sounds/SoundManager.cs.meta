@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aa50f661e46ced6409dee3bc2774250d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - HammerSound: {fileID: 8300000, guid: 5f38dd221576e4b4f82cab23a4ba1410, type: 3}
+  - StepSound: {fileID: 8300000, guid: 51bf20695502b024993fb554bd673436, type: 3}
+  - Spring: {fileID: 8300000, guid: 7c555bd125f8e2a4fa19d7a62499da8e, type: 3}
+  - DoorSound: {fileID: 8300000, guid: 99ded99bdf776c94682a4ae8bbe7e8b3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
